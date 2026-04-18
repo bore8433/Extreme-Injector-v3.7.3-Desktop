@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="20260418_1217_Image Generation_simple_compose_01kpfy2gg5fb6sw66agymtwnzn(1)" src="https://github.com/user-attachments/assets/25f8f8a2-e987-4785-bafc-c0a834ed7744" />
+<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/0823364f-a65f-45e6-9efd-0ad6e569dd4f" />
 
 # Extreme Injector - PC Desktop Version
 
